@@ -2,7 +2,7 @@
 
 ![clock](https://raw.githubusercontent.com/taylortabb/clock-me/master/docs/clock.gif)
 
-I wondered: what If if instead of a clock telling me the time, ***I*** could tell me the time? So Me, As A Clock, was born. You can make your own version with You, As A Clock, with the code in this repo. This also might be art— I'm not totally sure. Check out a demo of it [here](http://go.tabb.me/me-as-a-clock/).
+I wondered: what if instead of a clock telling me the time, ***I*** could tell me the time? So Me, As A Clock, was born. You can make your own version with You, As A Clock, with the code in this repo. This also might be art— I'm not totally sure. Check out a demo of it [here](http://go.tabb.me/me-as-a-clock/).
 
 ## Make Your Own
 
