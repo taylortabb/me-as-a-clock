@@ -14,7 +14,7 @@ You heard me— Clone or download this repo. Do it now.
 
 ### Adding Your Images
 
-By deafult, it's images of me. You'll probably want images of you! You'll need to create images of you for each digit and colon. You'll ideally want uniform sized images with a plain white background, which will likely require some editing. Once you have them, name them as follows, and replace the deafult images in the `img` folder with your own:
+By default, it's images of me. You'll probably want images of you! You'll need to create images of you for each digit and colon. You'll ideally want uniform sized images with a plain white background, which will likely require some editing. Once you have them, name them as follows, and replace the default images in the `img` folder with your own:
 
 - 0.jpg
 - 1.jpg 
@@ -28,9 +28,9 @@ By deafult, it's images of me. You'll probably want images of you! You'll need t
 - 9.jpg
 - colon.jpg
 
-## Finising Up
+## Finishing Up
 
-Great job! You did it! Open clock.html in your preffered browser*. You should see yourself as a clock! Check out clock.html in your favorite text editor and see how styling works– you can make it your own and optimze it for embedding in your own website by changing parameters in the #clock style.
+Great job! You did it! Open clock.html in your preferred browser*. You should see yourself as a clock! Check out clock.html in your favorite text editor and see how styling works– you can make it your own and optimize it for embedding in your own website by changing parameters in the #clock style.
 
 #### Notes
 
