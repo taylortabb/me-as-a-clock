@@ -8,7 +8,7 @@
     s = addZerostoNumberslessThanten(s);
 
   var string = h + ":" + m + ":" + s;
-  var img = numberToimagesOfyou(string);
+  var img = numberToimagesOfyou(string, h);
   document.getElementById('clock').innerHTML = img;
 
   var t = setTimeout(startTime, 1000);
@@ -21,10 +21,16 @@ function addZerostoNumberslessThanten(i) {
   return i;
 }
 
-function numberToimagesOfyou(s) {
+function numberToimagesOfyou(s, h) {
   var canvas = ""
+  if (h >= 10) {
+    w = '12.5%'
+  }
+  else {
+    w='14%'
+  }
   for (var i = 0; i < s.length; i++) {
-    canvas = canvas + "<img width='12.5%' src='" + img[s[i]] + "'/>"
+    canvas = canvas + "<img width=" + w + "' src='" + img[s[i]] + "'/>"
   }
   return canvas
 }
