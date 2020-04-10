@@ -1,4 +1,4 @@
-# Me, As a Clock
+# Me, as a Clock
 
 ![clock](https://raw.githubusercontent.com/taylortabb/clock-me/master/docs/clock.gif)
 
