@@ -32,6 +32,8 @@ By default, it's images of me. You'll probably want images of you! You'll need t
 
 Great job! You did it! Open clock.html in your preferred browser*. You should see yourself as a clock! Check out clock.html in your favorite text editor and see how styling works– you can make it your own and optimize it for embedding in your own website by changing parameters in the #clock style.
 
+And of course, there's a world of possibility here- you could make a clock with each digit as a different friend, family member, coworker, animal, or anything else you can think of. If you make something awesome, [hit me up](https://www.tabb.me/about)!
+
 #### Notes
 
 - Check out more fun stuff at [tabb.me](https://www.tabb.me/)
