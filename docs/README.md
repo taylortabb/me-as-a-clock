@@ -2,7 +2,7 @@
 
 ![clock](https://raw.githubusercontent.com/taylortabb/clock-me/master/docs/clock.gif)
 
-I wondered: what If if instead of a clock telling me the time, ***I*** could tell me the time? So Me, As A Clock, was born. You can make your own version with You, As A Clock, with the code in this repo. This also might be art— I'm not totally sure. Check out a demo of it [here](http://go.tabb.me/me-as-a-clock/).
+I wondered: what if instead of a clock telling me the time, ***I*** could tell me the time? So Me, As A Clock, was born. You can make your own version with You, As A Clock, with the code in this repo. This also might be art— I'm not totally sure. Check out a demo of it [here](http://go.tabb.me/me-as-a-clock/).
 
 ## Make Your Own
 
@@ -31,6 +31,8 @@ By default, it's images of me. You'll probably want images of you! You'll need t
 ## Finishing Up
 
 Great job! You did it! Open clock.html in your preferred browser*. You should see yourself as a clock! Check out clock.html in your favorite text editor and see how styling works– you can make it your own and optimize it for embedding in your own website by changing parameters in the #clock style.
+
+And of course, there's a world of possibility here- you could make a clock with each digit as a different friend, family member, coworker, animal, or anything else you can think of. If you make something awesome, [hit me up](https://www.tabb.me/about)!
 
 #### Notes
 
