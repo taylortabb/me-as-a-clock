@@ -32,11 +32,12 @@ By default, it's images of me. You'll probably want images of you! You'll need t
 
 Great job! You did it! Open clock.html in your preferred browser*. You should see yourself as a clock! Check out clock.html in your favorite text editor and see how styling works– you can make it your own and optimize it for embedding in your own website by changing parameters in the #clock style.
 
+If you really want to get your clock up and running quickly and easily, just fork this repo, re name "clock.html" to "index.html," replace the images in `img` with your images, and enable githhub pages in settings. Boom. There you go, you're living it up.
+
 And of course, there's a world of possibility here- you could make a clock with each digit as a different friend, family member, coworker, animal, or anything else you can think of. If you make something awesome, [hit me up](https://www.tabb.me/about)!
 
 #### Notes
 
-— If you really want to get your clock up and running quickly and easily, just fork this repo, reanme "clock.html" to "index.html," replace the images in `img` with your images, and enable githhub pages in settings. Boom. There you go. 
 - Check out more fun stuff at [tabb.me](https://www.tabb.me/)
 - Clock code based on [this](https://stackoverflow.com/questions/42964421/digital-clock-with-images) stackoverflow question.
 - My preferred browser is Firefox. If you're in the mood for a new browser, maybe take Firefox out for a spin. It's got a cool fox logo. (this is not an ad, I just really like Firefox)
