@@ -39,5 +39,5 @@ And of course, there's a world of possibility here- you could make a clock with 
 #### Notes
 
 - Check out more fun stuff at [tabb.me](https://www.tabb.me/)
-- Clock code based on [this](https://stackoverflow.com/questions/42964421/digital-clock-with-images) stackoverflow question.
+- Clock code in part based on [this](https://stackoverflow.com/questions/42964421/digital-clock-with-images) stackoverflow question.
 - My preferred browser is Firefox. If you're in the mood for a new browser, maybe take Firefox out for a spin. It's got a cool fox logo. (this is not an ad, I just really like Firefox)
